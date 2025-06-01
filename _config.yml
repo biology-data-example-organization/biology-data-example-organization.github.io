@@ -11,7 +11,7 @@ image: tundra.jpg
 topbox-farge: 00617f
 
 contentbox-farge: ffff;
-contentbox-skygge: 0px 0px 100px 0px rgba(50, 50, 50, 1)
+contentbox-skygge: 0px 0px 100px 0px rgba(50, 50, 50, 0.3)
 
 bakgrunn: ./assets/img/bakgrunn.jpg
 bakgrunn-farge: 
