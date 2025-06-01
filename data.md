@@ -1,7 +1,7 @@
 {% include navbar.html %}  {% include top-box.html %}
 
 ## Data
-In my masters thesis .....
+Here is an overview of different types of data available from COAT's web page.
 
 | Data type | Description | Link |
 |----------|----------|----------|
