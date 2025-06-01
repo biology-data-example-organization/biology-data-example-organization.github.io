@@ -34,3 +34,6 @@ test_data  <- dataset[-train_indices, ]
 cat("Training set rows:", nrow(train_data), "\n")
 cat("Test set rows:", nrow(test_data), "\n")
 ```
+
+## Principal Component Analysis - Example
+Here you can find the R file for an example of a PCA: [Link](https://github.com/biology-data-example-organization/biology-data-example-organization.github.io/blob/main/PCAfinal.R)
