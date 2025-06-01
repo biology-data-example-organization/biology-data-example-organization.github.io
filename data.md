@@ -33,3 +33,4 @@ test_data  <- dataset[-train_indices, ]
 # Print the number of rows in each set
 cat("Training set rows:", nrow(train_data), "\n")
 cat("Test set rows:", nrow(test_data), "\n")
+```
