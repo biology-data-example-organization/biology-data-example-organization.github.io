@@ -17,9 +17,9 @@ bakgrunn: ./assets/img/bakgrunn.jpg
 bakgrunn-farge: 
 
 #Farge tekst
-primaerfarge: 007396 #Farge overskrifter
+primaerfarge: #Farge overskrifter
 sekundaerfarge: #Farge generell tekst
-linkfarge: f2a900 #Farge linker
+linkfarge: 007396 #Farge linker
 
 uitlogo: ./assets/img/uit.png
 #Skal stå tom
