@@ -21,7 +21,7 @@ primaerfarge: #Farge overskrifter
 sekundaerfarge: #Farge generell tekst
 linkfarge: 007396 #Farge linker
 
-uitlogo: ./assets/img/uit.png
+#uitlogo: ./assets/img/uit.png
 #Skal stå tom
 title: ''
 
