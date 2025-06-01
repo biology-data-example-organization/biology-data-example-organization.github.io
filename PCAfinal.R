@@ -1,5 +1,3 @@
-setwd("C:/Users/gurob/OneDrive - UiT Office 365/Arctic Marine Ecology/2024V/Special curriculum")
-
 #Libraries that I will use
 library(vegan)
 library(corrplot)
