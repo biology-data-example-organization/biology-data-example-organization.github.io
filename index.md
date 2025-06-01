@@ -1,7 +1,7 @@
 {% include navbar.html %}  {% include top-box.html %}
 
 
-## [Slik lager du et kursrepositorie](readme_no.html){:target="blank"} (Slettes)
+## [Biology data](readme_no.html){:target="blank"}
 
 
 ## Kursplan  
